@@ -1,4 +1,4 @@
-
+import java.io.IOException;
 
 /**
  * @author gh971
@@ -9,8 +9,9 @@ public class Main {
 
 	public Insurance m_Insurance;
 
-	public Main(){
-
+	public static void Main(String[]args)throws IOException{
+		System.out.println("Insurance Menu");
+		System.out.println();
 	}
 
 	public void finalize() throws Throwable {
