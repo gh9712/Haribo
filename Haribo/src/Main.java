@@ -3,13 +3,13 @@ import java.io.IOException;
 /**
  * @author gh971
  * @version 1.0
- * @created 28-4-2017 ¿ÀÀü 11:08:44
+ * @created 28-4-2017 ï¿½ï¿½ï¿½ï¿½ 11:08:44
  */
 public class Main {
 
 	public Insurance m_Insurance;
 
-	public static void Main(String[]args)throws IOException{
+	public static void main(String[] args) throws IOException{
 		System.out.println("Insurance Menu");
 		System.out.println();
 	}

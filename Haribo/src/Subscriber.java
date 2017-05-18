@@ -3,11 +3,11 @@
 /**
  * @author gh971
  * @version 1.0
- * @created 28-4-2017 ¿ÀÀü 11:08:45
+ * @created 28-4-2017 ï¿½ï¿½ï¿½ï¿½ 11:08:45
  */
 public class Subscriber {
 
-	private String ÀÌ¸§;
+	private String s;
 
 	public Subscriber(){
 
