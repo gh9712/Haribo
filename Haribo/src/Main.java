@@ -12,6 +12,7 @@ public class Main {
 	public static void main(String[] args) throws IOException{
 		System.out.println("Insurance Menu");
 		System.out.println("test");
+		System.out.println("µÇ´ÂÁö");
 		System.out.println();
 	}
 
